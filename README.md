@@ -1,5 +1,5 @@
 <h2> Hi, I'm ccczg!<img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
-<p><em>Software Enginner at Shanghai</em></p>
+<p><em>Software Enginner</em></p>
 
 <p>
   <img alt="Java" src="https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white" />
