@@ -14,7 +14,7 @@
 <a align="left" href="https://github.com/pulls?q=author%3Accczg">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github-stats.liuli.lol/api?username=ccczg&theme=vue-dark&show_icons=true&include_all_commits=true&count_private=true">
-    <img alt="Shows chanrich's GitHub Stats." align="left" width="300px" src="https://github-stats.liuli.lol/api?username=ccczg&theme=vue&show_icons=true&include_all_commits=true&count_private=true">
+    <img alt="Shows chanrich's GitHub Stats." align="left" width="400px" src="https://github-stats.liuli.lol/api?username=ccczg&theme=vue&show_icons=true&include_all_commits=true&count_private=true">
   </picture>
 </a>
 
